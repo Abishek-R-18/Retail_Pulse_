@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local data and generated files
+/data/raw/
+/data/reference/
+/dashboards/source/
+/data/interim/
+/data/processed/
+/docs/reference/*.pdf
+/artifacts/*
+!/artifacts/README.md
+
+# Secrets and local editor files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.vscode/

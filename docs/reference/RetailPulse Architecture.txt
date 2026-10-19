@@ -1,0 +1,16 @@
+RetailPulse Architecture:
+1.Data Layer
+2.Feature Engineering
+Create features like:
+RFM
+Lag Features
+Rolling Averages
+3.Model Layer
+Train models
+Store Models(MLflow)
+4.Serving Layer
+FastAPI, Flask
+Streamlit(Dashboard)
+5.Monitoring Layer
+Drift Detection
+Performance Tracking

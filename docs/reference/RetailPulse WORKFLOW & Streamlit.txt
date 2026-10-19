@@ -1,0 +1,25 @@
+#RetailPulse: 
+Streamlit Dashboard
+Page 1: Sales Dashboard
+Page 2: Customer Dashboard
+Page 3: Forecast Dashboard
+Page 4: Inventory Dashboard
+
+Datasets:
+Download Online Retail Dataset(UCI Official)
+Download Online Retail II Dataset(UCI- 2 Years Data)
+Open Kaggle Version of Online Retail II Dataset 
+
+WORKFLOW:
+1. Collect the dataset
+2. Import the libraries
+3. Load the dataset
+4. Data Cleaning
+5. Feature Engineering
+6. EDA
+7. Customer Segmentation(RFM Analysis)
+8. Demand Forecasting(Time series)
+9. Churn Prediction
+10. Inventory Optimization
+11. Build Streamlit/PowerBI Dashboard
+12. Deploy using Flask/fastapi/Streamlit

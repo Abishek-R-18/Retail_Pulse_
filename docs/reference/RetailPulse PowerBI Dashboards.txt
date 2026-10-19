@@ -1,0 +1,24 @@
+RetailPulse: Power BI Dashboards
+
+Step 1: Load the dataset in Power BI
+Step 2: Data Cleaning in Power BI
+Step 3: Create New columns
+Step 4: Create important measures(DAX)
+Step 5: Build advanced visual dashboards
+Step 6: Create the business insights
+Step 7: Build 10-12 pages of interactive dashboards
+
+Dashboard:
+Page 1: Executive Summary Dashboard
+Page 2: Sales Trend Analysis
+Page 3: Product Performance Dashboard
+Page 4: Customer Analytics Dashboard
+Page 5: Region/Country Sales Dashboard
+Page 6: Monthly and Seasonal sales Dashboard
+Page 7: Customer Behaviour Dashboard
+Page 8: Profit and Revenue Analysis
+Page 9: Inventory Risk Dashboard'
+Page 10: Order and Transaction Dashboard
+Page 11: Advanced Analytics Dashboard
+Page 12: Interactive Filter Dashboard
+
